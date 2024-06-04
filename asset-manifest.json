@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/balu1212/Dynamic-ToDo-List.git/static/css/main.a561e2da.css",
-    "main.js": "/balu1212/Dynamic-ToDo-List.git/static/js/main.16728daa.js",
-    "static/js/453.59bb3b6d.chunk.js": "/balu1212/Dynamic-ToDo-List.git/static/js/453.59bb3b6d.chunk.js",
-    "index.html": "/balu1212/Dynamic-ToDo-List.git/index.html",
-    "main.a561e2da.css.map": "/balu1212/Dynamic-ToDo-List.git/static/css/main.a561e2da.css.map",
-    "main.16728daa.js.map": "/balu1212/Dynamic-ToDo-List.git/static/js/main.16728daa.js.map",
-    "453.59bb3b6d.chunk.js.map": "/balu1212/Dynamic-ToDo-List.git/static/js/453.59bb3b6d.chunk.js.map"
+    "main.css": "/Dynamic-ToDo-List.git/static/css/main.a561e2da.css",
+    "main.js": "/Dynamic-ToDo-List.git/static/js/main.ee6bb48b.js",
+    "static/js/453.59bb3b6d.chunk.js": "/Dynamic-ToDo-List.git/static/js/453.59bb3b6d.chunk.js",
+    "index.html": "/Dynamic-ToDo-List.git/index.html",
+    "main.a561e2da.css.map": "/Dynamic-ToDo-List.git/static/css/main.a561e2da.css.map",
+    "main.ee6bb48b.js.map": "/Dynamic-ToDo-List.git/static/js/main.ee6bb48b.js.map",
+    "453.59bb3b6d.chunk.js.map": "/Dynamic-ToDo-List.git/static/js/453.59bb3b6d.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.a561e2da.css",
-    "static/js/main.16728daa.js"
+    "static/js/main.ee6bb48b.js"
   ]
 }
